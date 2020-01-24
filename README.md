@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/Saja-401-advanced-javascript/class-03/pull/1)
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/Saja-401-advanced-javascript/class-03/actions) (GitHub Actions)
 
 
 
